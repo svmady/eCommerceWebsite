@@ -1,0 +1,12 @@
+import './App.css';
+
+function App() {
+  return (
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>Welcome to EcommStore</h1>
+      <p>Your one-stop shop for everything</p>
+    </div>
+  );
+}
+
+export default App;
